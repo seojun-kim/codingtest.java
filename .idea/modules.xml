@@ -5,6 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/baekjoon/baekjoon.iml" filepath="$PROJECT_DIR$/baekjoon/baekjoon.iml" />
       <module fileurl="file://$PROJECT_DIR$/codingdojang/codingdojang.iml" filepath="$PROJECT_DIR$/codingdojang/codingdojang.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/codingtest.java.iml" filepath="$PROJECT_DIR$/.idea/codingtest.java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/luxuryJava/luxuryJava.iml" filepath="$PROJECT_DIR$/luxuryJava/luxuryJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/programmers/programmers.iml" filepath="$PROJECT_DIR$/programmers/programmers.iml" />
     </modules>
   </component>
 </project>
